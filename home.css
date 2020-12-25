@@ -58,6 +58,31 @@
 .btn-wrapper p {
     margin: 10px 0;
 }
+
 i {
     margin-right: 10px;
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+}
+
+.logo {
+    width: 124px;
+    margin-top: 20px;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    float: right;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header-right:hover {
+    background-color: rgba(255, 255, 255, 0.5);
 }
