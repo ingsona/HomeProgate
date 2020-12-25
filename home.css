@@ -134,3 +134,12 @@ header {
     font-size: 15px;
     color: teal;
 }
+
+.message {
+    background-color: #5dca88;
+    padding: 15px 40px;
+}
+
+.heading h3 {
+    font-weight: normal;
+}
